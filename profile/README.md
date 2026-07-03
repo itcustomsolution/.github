@@ -23,7 +23,7 @@ A services practice and a software house, run from the same calendar.
 
 | Product | What it does | Status | URL |
 |---|---|---|---|
-| GovBid AI | Proposal capture + bid intelligence. Reads Section L, drafts first 80% in 8 minutes. | Live (2024+) | [trygovbidai.com](https://trygovbidai.com) |
+| Winrove | Proposal capture + bid intelligence. Reads Section L, drafts first 80% in 8 minutes. | Live (2024+) | [winrove.com](https://winrove.com) |
 | OpsTicket | IT skills assessment + recruiting CRM + workplace bolt-on. Real terminals, Claude AI grading. | Live (2024+) | [tryopsticket.com](https://tryopsticket.com) |
 | OnboardIQ | Per-onboarding employee onboarding for federal contractors. Clearance-aware. | Live (2024+) | [tryonboardiq.com](https://tryonboardiq.com) |
 | DeliverOps | Field-delivery operations · dispatch, CLIN burn tracking. | Landing live | [trydeliverops.com](https://trydeliverops.com) |
