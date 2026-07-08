@@ -3,62 +3,66 @@
 
   # IT Custom Solution LLC
 
-  **Government IT contractor + GovCon SaaS house. Six products under one roof.**
+  **Multi-practice technology firm. Four practices, one firm.**
 
   [![Website](https://img.shields.io/badge/Website-itcustomsolution.com-1E4D4D)](https://itcustomsolution.com)
   [![NYC MBE](https://img.shields.io/badge/NYC%20MBE-MWCERT2022--353-C5B99A)](https://www.nyc.gov/site/sbs/businesses/find-business-owners-mwbe.page)
+  [![NMSDC MBE](https://img.shields.io/badge/NMSDC%20MBE-NY100001102-C5B99A)](https://nmsdc.org/)
   [![SAM.gov](https://img.shields.io/badge/SAM.gov-PR9KWJPM4JU9-1E4D4D)](https://sam.gov/)
   [![CAGE](https://img.shields.io/badge/CAGE-91CE1-1E4D4D)](https://cage.dla.mil/)
 </div>
 
 ---
 
-## What we do
+## What We Do
 
-A services practice and a software house, run from the same calendar.
+IT Custom Solution LLC is a multi-practice technology, consulting, services, and software firm serving government agencies, prime contractors, and commercial clients from SMB to enterprise.
 
-**Services** · cybersecurity, cloud, managed IT, IT staffing for federal, state, local, and education clients across the United States. Past performance includes hardware bid wins at Rensselaer County NY (RFB-22-31) and City Utilities of Springfield MO (CU-0000200662).
+Four practices run under one accountable team:
 
-**Products** · six lines, three live today.
+- **Bid pursuit and strategic teaming**: prime, subcontractor, systems integrator, or teaming partner on government and enterprise contracts.
+- **Consulting and AI advisory**: AI readiness, implementation guidance, and operating-system advisory for SMB and mid-market teams.
+- **Managed services**: managed IT, cybersecurity, cloud, software development, IT staffing, support, procurement, disaster recovery, and related technology services.
+- **SaaS products**: Winrove, OpsTicket, and OnboardIQ are live; DeliverOps is landing; ShieldDesk and VaultGuard are planned.
+
+We also publish procurement intelligence reports and bid/no-bid advisory for teams that need sharper pursuit decisions.
+
+## Product Family
 
 | Product | What it does | Status | URL |
 |---|---|---|---|
-| Winrove | Proposal capture + bid intelligence. Reads Section L, drafts first 80% in 8 minutes. | Live (2024+) | [winrove.com](https://winrove.com) |
-| OpsTicket | IT skills assessment + recruiting CRM + workplace bolt-on. Real terminals, Claude AI grading. | Live (2024+) | [tryopsticket.com](https://tryopsticket.com) |
-| OnboardIQ | Per-onboarding employee onboarding for federal contractors. Clearance-aware. | Live (2024+) | [tryonboardiq.com](https://tryonboardiq.com) |
-| DeliverOps | Field-delivery operations · dispatch, CLIN burn tracking. | Landing live | [trydeliverops.com](https://trydeliverops.com) |
-| ShieldDesk | Cybersecurity managed service tooling. | 2027 roadmap | : |
-| VaultGuard | Compliance vault + audit-ready document handling. | 2027 roadmap | : |
+| Winrove | Solicitation analysis, capture intelligence, and first-draft proposal workflow. | Live | [winrove.com](https://winrove.com) |
+| OpsTicket | IT skills assessment and recruiting workflow for hands-on technical evaluation. | Live | [tryopsticket.com](https://tryopsticket.com) |
+| OnboardIQ | Subcontractor and key-personnel onboarding for awarded contracts. | Live | [tryonboardiq.com](https://tryonboardiq.com) |
+| DeliverOps | Delivery-operations workflow for contract execution. | Landing | [trydeliverops.com](https://trydeliverops.com) |
+| ShieldDesk | Security operations and service desk tooling. | Planned | [itcustomsolution.com/products](https://itcustomsolution.com/products) |
+| VaultGuard | Compliance document vault and audit-evidence tooling. | Planned | [itcustomsolution.com/products](https://itcustomsolution.com/products) |
 
-## Who we are
+## Firm Facts
 
-Founder-owned. Bootstrapped. Built from inside a government contract.
+- **Legal name**: IT Custom Solution LLC
+- **Founded**: 2021
+- **Headquarters**: New York, NY
+- **Founder & Director**: Olufela "Lu" Fagbure
+- **Website**: [itcustomsolution.com](https://itcustomsolution.com)
+- **Primary email**: hello@itcustomsolution.com
+- **Phone**: +1 (646) 671-3399
+- **UEI**: PR9KWJPM4JU9
+- **CAGE**: 91CE1
+- **NYC MBE**: MWCERT2022-353, valid through 2027-05-31
+- **NMSDC MBE**: NY100001102, NY & NJ MSDC, valid through 2027-06-30
+- **SBA 8(a)**: application submitted 2026, under SBA review
 
-- **Founder & Director** · Olufela "Lu" Fagbure ([LinkedIn](https://www.linkedin.com/in/olufela-fagbure))
-- **Founded** · 2021
-- **HQ** · New York, NY
-- **Legal name** · IT Custom Solution LLC
-- **UEI** · PR9KWJPM4JU9
-- **CAGE** · 91CE1
-- **NYC MBE Cert** · MWCERT2022-353 (valid through 2027-05-31)
-- **SBA 8(a)** · application submitted 2026, under SBA review
-- **Insurance** · Hartford-backed workers compensation on-policy; general liability on-award
+## Capability Statement
 
-## Capability statement
-
-[Download capability statement (PDF)](https://itcustomsolution.com/capability-statement.pdf)
-
-## Hiring
-
-We hire IT engineers and federal-contract operators every quarter. See [our careers page](https://itcustomsolution.com/careers).
+[Download the capability statement](https://itcustomsolution.com/capability-statement.pdf)
 
 ## Contact
 
-- **Sales** · sales@itcustomsolution.com
-- **Support** · hello@itcustomsolution.com
-- **Phone** · +1 (646) 671-3399
-- **Schedule** · [cal.com/itcustomsolution](https://cal.com/itcustomsolution)
+- **General**: hello@itcustomsolution.com
+- **Sales**: sales@itcustomsolution.com
+- **Schedule**: [cal.com/itcustomsolution](https://cal.com/itcustomsolution)
 
 ---
 
-<sub>The repositories under this organization are mostly private (customer code, RFP responses, proposal libraries). The public README + capability statement here serve as the entity-credibility surface for procurement officers and Google's Knowledge Graph.</sub>
+<sub>The repositories under this organization are mostly private. This public profile is maintained as an entity-credibility surface for customers, partners, procurement officers, and search engines.</sub>
