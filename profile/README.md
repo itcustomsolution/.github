@@ -23,7 +23,7 @@ Four practices run under one accountable team:
 - **Bid pursuit and strategic teaming**: prime, subcontractor, systems integrator, or teaming partner on government and enterprise contracts.
 - **Consulting and AI advisory**: AI readiness, implementation guidance, and operating-system advisory for SMB and mid-market teams.
 - **Managed services**: managed IT, cybersecurity, cloud, software development, IT staffing, support, procurement, disaster recovery, and related technology services.
-- **SaaS products**: Winrove, OpsTicket, and OnboardIQ are live; DeliverOps is landing; ShieldDesk and VaultGuard are planned.
+- **SaaS products**: Winrove, OpsTicket, and OnboardIQ are live; DeliverOps is landing.
 
 We also publish procurement intelligence reports and bid/no-bid advisory for teams that need sharper pursuit decisions.
 
@@ -35,8 +35,6 @@ We also publish procurement intelligence reports and bid/no-bid advisory for tea
 | OpsTicket | IT skills assessment and recruiting workflow for hands-on technical evaluation. | Live | [tryopsticket.com](https://tryopsticket.com) |
 | OnboardIQ | Subcontractor and key-personnel onboarding for awarded contracts. | Live | [tryonboardiq.com](https://tryonboardiq.com) |
 | DeliverOps | Delivery-operations workflow for contract execution. | Landing | [trydeliverops.com](https://trydeliverops.com) |
-| ShieldDesk | Security operations and service desk tooling. | Planned | [itcustomsolution.com/products](https://itcustomsolution.com/products) |
-| VaultGuard | Compliance document vault and audit-evidence tooling. | Planned | [itcustomsolution.com/products](https://itcustomsolution.com/products) |
 
 ## Firm Facts
 
