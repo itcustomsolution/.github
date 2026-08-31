@@ -10,6 +10,8 @@
   [![NMSDC MBE](https://img.shields.io/badge/NMSDC%20MBE-NY100001102-C5B99A)](https://nmsdc.org/)
   [![SAM.gov](https://img.shields.io/badge/SAM.gov-PR9KWJPM4JU9-1E4D4D)](https://sam.gov/)
   [![CAGE](https://img.shields.io/badge/CAGE-91CE1-1E4D4D)](https://cage.dla.mil/)
+
+  **MBE certified · SBA 8(a) Application Submitted 2026 (under review)**
 </div>
 
 ---
@@ -23,7 +25,7 @@ Four practices run under one accountable team:
 - **Bid pursuit and strategic teaming**: prime, subcontractor, systems integrator, or teaming partner on government and enterprise contracts.
 - **Consulting and AI advisory**: AI readiness, implementation guidance, and operating-system advisory for SMB and mid-market teams.
 - **Managed services**: managed IT, cybersecurity, cloud, software development, IT staffing, support, procurement, disaster recovery, and related technology services.
-- **SaaS products**: Winrove, OpsTicket, and OnboardIQ are live; DeliverOps is landing.
+- **SaaS products**: Winrove, OpsTicket, and OnboardIQ are live. DeliverOps is retired and redirects to ITC's current products page.
 
 We also publish procurement intelligence reports and bid/no-bid advisory for teams that need sharper pursuit decisions.
 
@@ -34,7 +36,7 @@ We also publish procurement intelligence reports and bid/no-bid advisory for tea
 | Winrove | Solicitation analysis, capture intelligence, and first-draft proposal workflow. | Live | [winrove.com](https://winrove.com) |
 | OpsTicket | IT skills assessment and recruiting workflow for hands-on technical evaluation. | Live | [tryopsticket.com](https://tryopsticket.com) |
 | OnboardIQ | Subcontractor and key-personnel onboarding for awarded contracts. | Live | [tryonboardiq.com](https://tryonboardiq.com) |
-| DeliverOps | Delivery-operations workflow for contract execution. | Landing | [trydeliverops.com](https://trydeliverops.com) |
+| DeliverOps | Former delivery-operations workflow for contract execution. | Retired | [ITC products](https://itcustomsolution.com/products) |
 
 ## Firm Facts
 
