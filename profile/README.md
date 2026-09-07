@@ -5,11 +5,11 @@
 
   **Multi-practice technology firm. Four practices, one firm.**
 
-  [![Website](https://img.shields.io/badge/Website-itcustomsolution.com-1E4D4D)](https://itcustomsolution.com)
-  [![NYC MBE](https://img.shields.io/badge/NYC%20MBE-MWCERT2022--353-C5B99A)](https://www.nyc.gov/site/sbs/businesses/find-business-owners-mwbe.page)
-  [![NMSDC MBE](https://img.shields.io/badge/NMSDC%20MBE-NY100001102-C5B99A)](https://nmsdc.org/)
-  [![SAM.gov](https://img.shields.io/badge/SAM.gov-PR9KWJPM4JU9-1E4D4D)](https://sam.gov/)
-  [![CAGE](https://img.shields.io/badge/CAGE-91CE1-1E4D4D)](https://cage.dla.mil/)
+  [![Website](https://img.shields.io/badge/Website-itcustomsolution.com-B5311E)](https://itcustomsolution.com)
+  [![NYC MBE](https://img.shields.io/badge/NYC%20MBE-MWCERT2022--353-212222)](https://www.nyc.gov/site/sbs/businesses/find-business-owners-mwbe.page)
+  [![NMSDC MBE](https://img.shields.io/badge/NMSDC%20MBE-NY100001102-212222)](https://nmsdc.org/)
+  [![SAM.gov](https://img.shields.io/badge/SAM.gov-PR9KWJPM4JU9-B5311E)](https://sam.gov/)
+  [![CAGE](https://img.shields.io/badge/CAGE-91CE1-B5311E)](https://cage.dla.mil/)
 
   **MBE certified · SBA 8(a) Application Submitted 2026 (under review)**
 </div>
