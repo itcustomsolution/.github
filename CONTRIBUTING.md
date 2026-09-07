@@ -11,7 +11,7 @@ Public product index (substantiable URLs):
 - Winrove: https://winrove.com
 - OpsTicket: https://tryopsticket.com
 - OnboardIQ: https://tryonboardiq.com
-- DeliverOps (landing): https://trydeliverops.com
+- DeliverOps is retired; see the [current product index](https://itcustomsolution.com/products).
 
 Firm site: https://itcustomsolution.com
 
@@ -35,8 +35,8 @@ Firm site: https://itcustomsolution.com
 
 ## Security reports
 
-Email security concerns to hello@itcustomsolution.com with enough detail to
-reproduce, and no secrets in the subject line.
+Follow the [security policy](SECURITY.md). Use private vulnerability reporting
+where available; keep exploitable details and sensitive data out of public issues.
 
 ## License and ownership
 
