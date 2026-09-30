@@ -25,18 +25,13 @@ Four practices run under one accountable team:
 - **Bid pursuit and strategic teaming**: prime, subcontractor, systems integrator, or teaming partner on government and enterprise contracts.
 - **Consulting and AI advisory**: AI readiness, implementation guidance, and operating-system advisory for SMB and mid-market teams.
 - **Managed services**: managed IT, cybersecurity, cloud, software development, IT staffing, support, procurement, disaster recovery, and related technology services.
-- **SaaS products**: Winrove, OpsTicket, and OnboardIQ are live. DeliverOps is retired and redirects to ITC's current products page.
+- **Winrove software**: ITC’s unified software platform. See [Winrove](https://winrove.com) for current capabilities and availability.
 
 We also publish procurement intelligence reports and bid/no-bid advisory for teams that need sharper pursuit decisions.
 
-## Product Family
+## Winrove
 
-| Product | What it does | Status | URL |
-|---|---|---|---|
-| Winrove | Solicitation analysis, capture intelligence, and first-draft proposal workflow. | Live | [winrove.com](https://winrove.com) |
-| OpsTicket | IT skills assessment and recruiting workflow for hands-on technical evaluation. | Live | [tryopsticket.com](https://tryopsticket.com) |
-| OnboardIQ | Subcontractor and key-personnel onboarding for awarded contracts. | Live | [tryonboardiq.com](https://tryonboardiq.com) |
-| DeliverOps | Former delivery-operations workflow for contract execution. | Retired | [ITC products](https://itcustomsolution.com/products) |
+Winrove is ITC’s unified software platform. [Explore Winrove](https://winrove.com) and [open the application](https://app.winrove.com).
 
 ## Firm Facts
 

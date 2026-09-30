@@ -6,12 +6,10 @@ any repository that explicitly accepts external contribution.
 
 ## Products listed on the organization profile
 
-Public product index (substantiable URLs):
+Public software platform:
 
 - Winrove: https://winrove.com
-- OpsTicket: https://tryopsticket.com
-- OnboardIQ: https://tryonboardiq.com
-- DeliverOps is retired; see the [current product index](https://itcustomsolution.com/products).
+- Winrove application: https://app.winrove.com
 
 Firm site: https://itcustomsolution.com
 
