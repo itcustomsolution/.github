@@ -8,10 +8,9 @@ any repository that explicitly accepts external contribution.
 
 Public product index (substantiable URLs):
 
-- Winrove: https://winrove.com
-- OpsTicket: https://tryopsticket.com
-- OnboardIQ: https://tryonboardiq.com
-- DeliverOps is retired; see the [current product index](https://itcustomsolution.com/products).
+- Winrove (government contracting): https://winrove.com and https://app.winrove.com
+- OpsTicket (skills assessment and assessment-led recruiting): https://tryopsticket.com
+- OnboardIQ and DeliverOps are no longer separate products; tryonboardiq.com redirects to Winrove.
 
 Firm site: https://itcustomsolution.com
 
