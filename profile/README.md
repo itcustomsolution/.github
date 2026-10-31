@@ -1,8 +1,8 @@
 # IT Custom Solution LLC
 
-**Technology services, government-contracting workflows and accountable automation.**
+**Make technology decisions, handoffs and delivery easier to review.**
 
-We are a New York technology firm serving government and commercial buyers. Our work spans pursuit and teaming, consulting and AI advisory, managed IT, cloud, security, software and staffing. This GitHub organization is where we publish reusable tools and practical guidance from that work.
+We are a New York technology firm serving government and commercial buyers. Our work spans pursuit and teaming, consulting and AI advisory, managed IT, cloud, security, software and staffing. Start with the outcome you need: a clearer workflow, a defined implementation, or an agreed support plan. This GitHub organization publishes small, inspectable tools and practical guidance that can support that work.
 
 [The firm](https://itcustomsolution.com) · [Founder: Olufela “Lu” Fagbure](https://github.com/Lu-ITC) · [Capability statement](https://itcustomsolution.com/capability-statement.pdf)
 
@@ -21,12 +21,12 @@ New to the tools? [Try a local handoff and file-integrity walkthrough](https://g
 
 ## Releases you can inspect
 
-Release and registry snapshot: **26 October 2026**. These are early 0.x tools; review the release notes and each repository's limitations before adoption. A source branch, a GitHub release and a package-registry publication are separate states.
+Release and registry snapshot: **31 October 2026**. These are early 0.x tools; review the release notes and each repository's limitations before adoption. A source branch, a GitHub release and a package-registry publication are separate states.
 
 | Project | Published evidence | Runtime / license |
 | --- | --- | --- |
-| approval-gate-mcp | [GitHub v0.4.0](https://github.com/itcustomsolution/approval-gate-mcp/releases/tag/v0.4.0) · [npm 0.4.0](https://www.npmjs.com/package/@itcustomsolution/approval-gate-mcp/v/0.4.0) | Node.js 22+ · [MIT](https://github.com/itcustomsolution/approval-gate-mcp/blob/master/LICENSE) |
-| sam-gov-mcp | [GitHub v0.2.1](https://github.com/itcustomsolution/sam-gov-mcp/releases/tag/v0.2.1) · [npm 0.2.0](https://www.npmjs.com/package/@itcustomsolution/sam-gov-mcp/v/0.2.0); **0.2.1 is not on npm in this snapshot** | Node.js 22+ · [MIT](https://github.com/itcustomsolution/sam-gov-mcp/blob/main/LICENSE) |
+| approval-gate-mcp | [GitHub v0.4.1](https://github.com/itcustomsolution/approval-gate-mcp/releases/tag/v0.4.1) · [npm 0.4.1](https://www.npmjs.com/package/@itcustomsolution/approval-gate-mcp/v/0.4.1) | Node.js 22+ · [MIT](https://github.com/itcustomsolution/approval-gate-mcp/blob/master/LICENSE) |
+| sam-gov-mcp | [GitHub v0.2.1](https://github.com/itcustomsolution/sam-gov-mcp/releases/tag/v0.2.1) · [npm 0.2.1](https://www.npmjs.com/package/@itcustomsolution/sam-gov-mcp/v/0.2.1) | Node.js 22+ · [MIT](https://github.com/itcustomsolution/sam-gov-mcp/blob/main/LICENSE) |
 | task-handoff-check | [GitHub v0.1.1](https://github.com/itcustomsolution/task-handoff-check/releases/tag/v0.1.1) · [PyPI 0.1.1](https://pypi.org/project/task-handoff-check/0.1.1/) | Python 3.10+ · [MIT](https://github.com/itcustomsolution/task-handoff-check/blob/main/LICENSE) |
 | delivery-evidence-check | [GitHub v0.2.0](https://github.com/itcustomsolution/delivery-evidence-check/releases/tag/v0.2.0) · [PyPI 0.2.0](https://pypi.org/project/delivery-evidence-check/0.2.0/) | Python 3.10+ · [MIT](https://github.com/itcustomsolution/delivery-evidence-check/blob/main/LICENSE) |
 | bid-deadline-check | [GitHub v0.2.0](https://github.com/itcustomsolution/bid-deadline-check/releases/tag/v0.2.0) · [PyPI 0.2.0](https://pypi.org/project/bid-deadline-check/0.2.0/) | Python 3.10+ · [MIT](https://github.com/itcustomsolution/bid-deadline-check/blob/main/LICENSE) |
@@ -49,7 +49,13 @@ Both are brands of IT Custom Solution LLC. OnboardIQ and DeliverOps are no longe
 
 ## Work with ITC
 
-For a pursuit, advisory engagement or technology requirement, share the scope, role and decision you need to make. Our [firm website](https://itcustomsolution.com) and [public compliance posture](https://github.com/itcustomsolution/compliance-posture) provide buyer information. Certifications and procurement representations require the applicable current evidence; an open-source release does not establish them.
+For a slow or unclear IT process, start with an [IT Operations Workflow Review](https://itcustomsolution.com/practices/consulting): one workflow, its owners and exceptions, gaps in supporting evidence, and a practical improvement brief. AI readiness can be included where relevant. Implementation is a separate scope; deliverables, access, timing and acceptance criteria are agreed before work begins.
+
+For broader requirements, explore [technology service offers](https://itcustomsolution.com/services) or [pursuit and teaming](https://itcustomsolution.com/practices/bid-pursuit-teaming). [Describe the outcome and current process](https://itcustomsolution.com/contact) without sending sensitive records. An inquiry does not establish a delivery commitment or provision product access.
+
+These public components do not install a complete operating or compliance system. Source code, a deployable build and an accepted live workflow are different milestones: an integration still needs configured access, an accountable owner, end-to-end checks and acceptance for its intended use. Our [public compliance posture](https://github.com/itcustomsolution/compliance-posture) provides buyer information; certifications and procurement representations require current supporting evidence.
+
+Procurement and partner status: **NYC MBE certified**; **NMSDC MBE certified**; **Cisco Registered Partner**; **Microsoft Partner Center profile verified** (not a Solutions Partner, CSP or competency designation); **SBA 8(a) application submitted, decision pending** (not certification or program participation). Confirm applicability to the proposed work through the [current credentials page](https://itcustomsolution.com/certifications).
 
 - **Founder & Director:** Olufela “Lu” Fagbure
 - **Founded:** 2021 · **Headquarters:** New York, NY
